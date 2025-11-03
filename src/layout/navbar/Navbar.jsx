@@ -38,7 +38,7 @@ const Navbar = ({ globalSetting, storeCustomization }) => {
               <Link href="/" className="flex flex-shrink-0 items-center">
                 <img
                   className="h-8 w-auto"
-                  src="azli logos-04.png"
+                  src="/logo/logo-light.svg"
                   alt="Kachabazar"
                 />
               </Link>
